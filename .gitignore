@@ -1,0 +1,33 @@
+# Não enviar acervos e arquivos privados
+*.mdb
+*.accdb
+*.sqlite
+*.sqlite3
+*.db
+*.sql
+*.bak
+*.backup
+*.dump
+*.log
+*.pem
+*.key
+*.p12
+*.pfx
+*.env
+.env.*
+!.env.example
+**/.git/
+**/.svn/
+**/node_modules/
+**/_revisao_privada/
+**/RELATORIO_PRIVADO*
+**/arquivos_suspeitos*
+**/*.zip
+**/*.7z
+**/*.rar
+**/*.tar
+**/*.gz
+
+# Relatorios locais de auditoria
+PHP_AUDITORIA_LOCAL_*.csv
+**/PHP_AUDITORIA_LOCAL_*.csv
