@@ -31,3 +31,6 @@
 # Relatorios locais de auditoria
 PHP_AUDITORIA_LOCAL_*.csv
 **/PHP_AUDITORIA_LOCAL_*.csv
+
+/projetos/bvfinanceira/src/CONSIGNADO.xls
+/projetos/bvfinanceira/src/FICHA CADASTRAL PF - veiculos.xls
